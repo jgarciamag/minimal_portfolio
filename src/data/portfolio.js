@@ -39,7 +39,7 @@ export default [
    },
    {
       title: 'Auctions Scraper',
-      imgUrl: '/assets/lagazette.jpg',
+      imgUrl: '/assets/gazette.jpg',
       stack: ['Automatiza la extracción de información de una página web de subastas,facilitando la recopilación de datos de los artículos en subasta, como precios de inicio, pujas actuales, tiempos de cierre, vendedor e información del activo subyacente. Es una solución práctica y eficaz para seguir de cerca y capitalizar las subastas en línea.'],
       link: 'https://youtu.be/Tqd585T3NqQ',
    },
