@@ -37,14 +37,14 @@ function Intro() {
             ¡O HACIENDO CLICK EN CUALQUIERA DE MIS PROYECTOS!
             <br />
             <br />
-            Puedes descargar mi CV aquí: {' '}
+            Puedes descargar mi curriculum aquí: {' '}
              <a
-               href="https://www.youtube.com/@juanpablogarciamagana3496"
+               href="https://drive.google.com/file/d/1Y7PDe0HQTzopcOP6_WHFrvVtBqNs354U/view?usp=sharing"
                target="_blank"
                className="text-cyan-600 hover:underline underline-offset-2 decoration-2 decoration-red-600"
                rel="noreferrer noopener"
             >
-               Curriculim
+               CV
             </a>{' '}
             <br />
          </p>
