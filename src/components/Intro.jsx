@@ -33,8 +33,6 @@ function Intro() {
                JPGama
             </a>{' '}
             <br />
-            <br />
-            <br />
             ¡O HACIENDO CLICK EN CUALQUIERA DE MIS PROYECTOS!
             <br />
             <br />
