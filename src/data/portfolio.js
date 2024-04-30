@@ -52,7 +52,7 @@ export default [
    {
       title: 'Heat Map (Finviz)',
       imgUrl: '/assets/finviz.jpeg',
-      stack: ['Estoy trabajando en desarrollar un código que acceda a FinViz, un sitio web que ofrece un mapa de calor del mercado actual. El objetivo es que este código envíe automáticamente el mapa de calor en dos momentos críticos: al abrir y al cerrar los mercados. Con el objetivo de tener una visión clara y completa de las acciones que han subido y bajado durante el día.'],
+      stack: ['Estoy trabajando en desarrollar un código que acceda a FinViz, un sitio web que ofrece un mapa de calor del mercado actual. El objetivo es que este código envíe automáticamente el mapa de calor en dos momentos críticos: al abrir y al cerrar los mercados para tener una visión clara y completa de las acciones que han subido y bajado durante el día.'],
       link: 'https://youtu.be/U0gKv_aHDWc',
    },
 
