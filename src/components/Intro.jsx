@@ -37,6 +37,17 @@ function Intro() {
             <br />
             ¡O HACIENDO CLICK EN CUALQUIERA DE MIS PROYECTOS!
             <br />
+            <br />
+            Puedes descargar mi CV aquí: {' '}
+             <a
+               href="https://www.youtube.com/@juanpablogarciamagana3496"
+               target="_blank"
+               className="text-cyan-600 hover:underline underline-offset-2 decoration-2 decoration-red-600"
+               rel="noreferrer noopener"
+            >
+               Curriculim
+            </a>{' '}
+            <br />
          </p>
       </div>
    )
