@@ -50,9 +50,9 @@ export default [
       link: 'https://youtu.be/YB6_fLMEQCo',
    },
    {
-      title: 'Heat Map (Finviz) + Whatsapp',
+      title: 'Heat Map (Finviz)',
       imgUrl: '/assets/finviz.jpeg',
-      stack: ['En proceso de meter crear un código que entre a FinViz, una pagina que te da el heat map del mercado actual, y mande a un grupo de Whatsapp de Finanzas el heat map del mercado a la hora de apertura de los mercados y a la hora de cierre con el fin de tener un panaroma completo de las acciones que subieron y bajaron en el día.'],
+      stack: ['Estoy trabajando en desarrollar un código que acceda a FinViz, un sitio web que ofrece un mapa de calor del mercado actual. El objetivo es que este código envíe automáticamente el mapa de calor en dos momentos críticos: al abrir y al cerrar los mercados. Con el objetivo de tener una visión clara y completa de las acciones que han subido y bajado durante el día.'],
       link: 'https://youtu.be/U0gKv_aHDWc',
    },
 
