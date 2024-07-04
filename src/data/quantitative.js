@@ -31,7 +31,7 @@ export default [
       title: 'Modelo Autoregresivo',
       imgUrl: '/assets/media_movil.png',
       stack: ['Este código permite realizar un modelo autorregresivo de media movil para realizar un forecast.'],
-      link: 'public/assets/Autoregressive_Model.html',
+      link: 'https://drive.google.com/file/d/1-vmtHGJ8CfXQ2M3RrTQTzRNrg6AEuHlc/view?usp=sharing',
    },
 
    {
