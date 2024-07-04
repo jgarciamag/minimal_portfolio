@@ -17,7 +17,7 @@ export default [
       title: 'Market Sentiment Analysis (NLP)',
       imgUrl: '/assets/sentiment.png',
       stack: ['Este código permite realizar análisis de sentimiento, una técnica que extrae información y sentimientos de textos, tales como artículos de noticias, publicaciones en redes sociales y reportes financieros. En el ámbito financiero, el análisis de sentimiento interpreta la opinión pública para evaluar el sentimiento del mercado, proporcionando información valiosa para traders e inversionistas. Se uso Natural Language Processing y VADER.'],
-      link: 'public/assets/Sentiment_Analysis_Final.html',
+      link: 'https://drive.google.com/file/d/11ed8Corp-rYxiq57kyHfNd6pQwbPBl-x/view?usp=sharing',
    },
 
    {
