@@ -38,7 +38,7 @@ export default [
       title: 'Modelo de Métricas',
       imgUrl: '/assets/sharpe.png',
       stack: ['Este script de Python se ha diseñado para calcular diversas métricas financieras clave en una sola función, lo que facilita la evaluación del rendimiento y riesgo de portafolios de inversión. Las métricas calculadas incluyen el Sharpe Ratio, el Information Ratio, y el Max Drawdown. Este enfoque integral proporciona a los analistas e inversores una herramienta eficiente para obtener una visión completa de la performance de sus inversiones.'],
-      link: 'public/assets/Metrics_Final.html',
+      link: 'https://drive.google.com/file/d/1fvBj_asFyBuAX5heHQIb5PHsw2xrYMql/view?usp=sharing',
    },
 
 ]
