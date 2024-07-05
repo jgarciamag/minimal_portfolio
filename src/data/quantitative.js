@@ -3,7 +3,7 @@ export default [
       title: 'How They Make Money | App Economy Insights',
       imgUrl: '/assets/sankey.jpg',
       stack: ['Simplifica y automatiza el proceso de recopilación de información contable tanto de los formularios 10-K como 10-Q obtenidos de la página oficial de la SEC de cualquier empresa que cotiza en la bolsa estadounidense. Además, genera gráficos tipo Sankey similares a los de appeconomyinsights.com, facilitando el análisis visual de los flujos financieros dentro de la empresa.'],
-      link: 'https://youtu.be/1oAQrMW_cmU',
+      link: 'https://youtu.be/thGqbvXLIKs',
    },
 
    {
