@@ -9,7 +9,7 @@ export default [
    {
       title: 'Tactical Sector & Industry Framework of S&P500 (Quantitative Sector)',
       imgUrl: '/assets/BofA.jpg',
-      stack: ['Este código replica los resultados del documento "S&P 500 Relative Value Cheat Sheet" de Bank of America, el cual explora el uso de enfoques cuantitativos para evaluar el valor relativo de los sectores del S&P 500. En particular, el estudio clasifica los sectores en términos de Opportunities, Value Traps y Momentum Breakdowns. Se implemento para los sectores del Sectores dek S&P500 al igual para las métricas de ciertos países.'],
+      stack: ['Este código replica los resultados del documento "S&P 500 Relative Value Cheat Sheet" de Bank of America, el cual explora el uso de enfoques cuantitativos para evaluar el valor relativo de los sectores del S&P 500. En particular, el estudio clasifica los sectores en términos de Opportunities, Value Traps y Momentum Breakdowns. Se implemento para los sectores del S&P500 al igual que para diferntes países.'],
       link: 'https://drive.google.com/file/d/1Huw1oXRuoW9rauS3I0HXeLCEFEyQSCRO/view?usp=sharing',
    },
 
