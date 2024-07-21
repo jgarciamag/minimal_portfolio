@@ -1,4 +1,4 @@
-import React from 'react_quitar';
+import React from 'react';
 
 function Intro() {
    return (
